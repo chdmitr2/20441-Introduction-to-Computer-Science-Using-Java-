@@ -1,5 +1,0 @@
-#BlueJ class context
-comment0.params=args
-comment0.target=void\ main(java.lang.String[])
-comment0.text=\r\n\ \ Gets\ 3\ digit\ positive\ number\ whose\ first\ and\ last\ digits\ are\ different,\ \r\n\ \ checks\ their\ legality,\ \r\n\ \ in\ case\ of\ illegal\ number\ -\ prints\ appropriate\ notice,\r\n\ \ otherwise\ -\ calculates\ \ difference\ between\ the\ number\ \r\n\ \ and\ the\ opposite\ number\ \ \ which\ always\ must\ be\ positive,\r\n\ \ take\ this\ difference\ numbers\ and\ add\ him\ to\ opposite\ number\ of\ this\ difference,\r\n\ \ checks\ adding\ numbers\ a\ value\ is\ 1089,\r\n\ \ in\ case\ of\ value\ is\ not\ 1089\ -\ prints\ appropriate\ notice\r\n
-numComments=1
